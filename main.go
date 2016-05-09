@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/docopt/docopt.go"
-	"github.com/kbatten/jibi/jibi"
+	jibi "github.com/kbatten/jibi/jibi-lib"
 )
 
 func main() {
